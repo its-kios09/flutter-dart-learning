@@ -1,0 +1,17 @@
+                                                        NOTES
+                                                        Flutter
+    - UI framwork
+      - code packages and utility functions for writing cross-platform app code 
+      - codebase multiplatform
+      - collection of tools which converts the one code to the multi-platform using machine code which is able to be used on cross multiple platforms
+      - flutter is not a programming language but it's a UI framework which uses dart programming language
+      - Widgets are the UI building blocks you use in you flutter code to construct the app UI 
+      - Material Design are set of suggestion, rules and guidlines that help you build beautiful user interfaces
+      
+      Dart
+        - has two compilation time
+         - Just in Time
+         - Ahead of time
+        Dart uses the JIT complier
+          - will allows fast alteration and feedback
+        During deploymrnt you can AOT 

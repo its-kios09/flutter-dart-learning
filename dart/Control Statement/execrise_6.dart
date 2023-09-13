@@ -13,12 +13,12 @@ void main() {
   print(value);
 
   // Switch Statement
+  // advance dart 3
+  int age = 1;
   switch (someValue) {
-    case "Hi there":
+    case "Hi there" when age >= 1:
       print("You are right");
-      break;
     default:
       print("You are a Joke");
-      break;
   }
 }
